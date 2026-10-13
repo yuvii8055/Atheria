@@ -1,0 +1,6 @@
+{
+  "name": "Aetheria - Kinetic Gemini Studio",
+  "description": "Next-gen multimodal Gemini AI studio featuring role-based multi-turn chat, ultra-HD 4K image synthesis, fluid aurora glassmorphism, and kinetic spring physics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
